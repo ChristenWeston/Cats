@@ -9,8 +9,7 @@ $(document).ready(function() {
     $("body").addClass("darkBackground");
   });
 
-  $("button#red").click(function() {
+  $("button#originalBackground").click(function() {
     $("body").removeClass();
-    $("body").addClass("red-background");
   });
 });
