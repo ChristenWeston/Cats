@@ -19,3 +19,13 @@ h2 {
 p {
   font-family: cursive;
 }
+
+.lightBackground {
+  background-color: rgb(200, 253, 200);
+  color: black;
+}
+
+.darkBackground {
+  background-color: darkcyan;
+  color: whitesmoke;
+}
